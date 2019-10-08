@@ -1,16 +1,16 @@
 # Mis-datos
 <p> Nombre: Arantxa Torres </p>
 
-Edad: 18 años
+<p>Edad: 18 años</p>
 
-Educación primaria: YMCA.
+<p>Educación primaria: YMCA.</p>
 
-Educación Premedia y media: Centro Educativo Bilingüe Visión del Saber.
+<p>Educación Premedia y media: Centro Educativo Bilingüe Visión del Saber.</p>
 
-Twitter:@iMadeInUK
+<p>Twitter:@iMadeInUK</p>
 
-Instagram: @arantxaa_xx
+<p>Instagram: @arantxaa_xx</p>
 
-Tumblr: https://arantxacollection.tumblr.com/
+<p>Tumblr: https://arantxacollection.tumblr.com/</p>
 
-Pinterest: https://www.pinterest.es/arantxaaylin05
+<p>Pinterest: https://www.pinterest.es/arantxaaylin05</p>
