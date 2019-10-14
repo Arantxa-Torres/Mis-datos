@@ -1,6 +1,6 @@
 # Mis-datos
 
-<img src="https://www.facebook.com/photo.php?fbid=2495280030562502&set=a.141888255901703&type=3&theater" width="300" height="400"/>
+<img src="https://www.facebook.com/photo.php?fbid=2495280030562502&set=a.141888255901703&type=3&theater" />
 
 <p> Nombre: Arantxa Torres </p>
 
